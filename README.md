@@ -49,14 +49,6 @@ Um aplicativo simples para adicionar amigos a uma lista e sortear um nome aleat�
 
 Este projeto está sob a licença MIT. Sinta-se à vontade para usá-lo e modificá-lo! 😊
 
----
 
-💡 **Dúvidas ou sugestões?** Entre em contato ou contribua no repositório!
-
-🌟 Se gostou do projeto, deixe uma ⭐ no repositório!
-
----
-
-quero copiar este codigo
 
 
